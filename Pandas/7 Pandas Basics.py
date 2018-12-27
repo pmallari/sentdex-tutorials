@@ -2,7 +2,7 @@ import quandl
 import pandas as pd
 import pickle
 
-# Not necessary, I just do this so I do not show my API key.
+# Not necessary, I just do this so I do not show my API key.burned house
 api_key = open('quandlapikey.txt','r').read()
 
 
